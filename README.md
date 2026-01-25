@@ -2,4 +2,8 @@
 Experiences with  Alpha 1S motherboard and firmware
 
 
-Firmware dump, procedure , pinout comming
+Board : Alpha 1S V1.1 Date 2015-01-04
+MCU : STM32F103RDT6
+Flash : 384 KB
+RAM : 64 Kb
+Debug natif : SWD + JTAG
